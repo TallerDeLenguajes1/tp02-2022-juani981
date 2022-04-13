@@ -1,0 +1,11 @@
+
+	● ¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+		No, porque no pertenece a la rama en la que estoy trabajando,
+		git oculta estos archivos del explorador.
+	● vuelva a ejecutar el comando gitk --all ¿Qué diferencias nota?
+		El commit con las respuestas sale de la rama Master y no de Opcion2
+	● En el Branch master se va a combinar (merge) ambos repositorios. Para esto,
+	utilice el comando git merge Opcion_2 -m “merge opcion 2” Luego utilice el comando gitk –all 
+	para ver los cambios, ¿Qué nota?.
+		Opcion_2 se unió a Master
+		

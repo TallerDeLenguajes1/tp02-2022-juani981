@@ -1,5 +1,7 @@
 #include<time.h>
+#include<stdio.h>
 #include<stdint.h>
+#include<stdlib.h>
 #define N 20
 int i;
 int vt[N];
